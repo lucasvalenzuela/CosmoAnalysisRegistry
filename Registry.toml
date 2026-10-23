@@ -1,0 +1,6 @@
+name = "CosmoAnalysisRegistry"
+uuid = "96164afa-a757-4c88-bb83-2586bd4f7070"
+repo = "git@github.com:lucasvalenzuela/CosmoAnalysisRegistry.git"
+description = "A collection of Julia packages for cosmological simulation analysis and galaxy research."
+
+[packages]
