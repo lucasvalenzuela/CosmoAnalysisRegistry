@@ -4,4 +4,5 @@ repo = "https://github.com/lucasvalenzuela/CosmoAnalysisRegistry.git"
 description = "A collection of Julia packages for cosmological simulation analysis and galaxy research."
 
 [packages]
+24b07f33-2be9-49a8-8558-3b162e5e4048 = { name = "NamedRowArrays", path = "N/NamedRowArrays" }
 b031420d-871e-4e9c-8878-33bec386257e = { name = "FastUnitfulOperations", path = "F/FastUnitfulOperations" }
